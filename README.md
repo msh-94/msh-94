@@ -23,8 +23,8 @@
 ---
 
 ## 💡 LC-Eye 프로젝트
-> **기간:** 2025.11.05 ~ 2025.11.27 
-> **기술스택:** Spring Boot · React · Flutter  
+> **기간:** 2025.11.05 ~ 2025.11.27 <br/>
+> **기술스택:** Spring Boot · React · Flutter <br/>
 > **역할:** canva / 자동 매핑 시스템 / 투입물·산출물 파일 관리
 
 **LC-Eye**는 실무 LCI(Life Cycle Inventory) 계산과 표준 데이터 자동 매핑 기능을 제공하는 **경량형 LCI 시스템**입니다. <br />
@@ -40,8 +40,8 @@
 ---
 
 ## IncheonPhoenix 프로젝트
-> **기간:** 2025.09.26 ~ 2025.10.31 
-> **기술스택:** Spring Boot · React · Redis
+> **기간:** 2025.09.26 ~ 2025.10.31 <br/>
+> **기술스택:** Spring Boot · React · Redis <br/>
 > **역할:** 조장 / 좌석교환 / 푸시알림
 
 **IncheonPhoenix**는 일반·시니어 모드와 음성 안내 기능을 통해 고령층의 접근성을 보완하고 <br/>
@@ -59,8 +59,8 @@
 ---
 
 ## 🥩 BestMeat 프로젝트
-> **기간:** 2025.08.22 ~ 2025.09.12 
-> **기술스택:** Spring Boot · JSP · WebSocket  
+> **기간:** 2025.08.22 ~ 2025.09.12 <br/>
+> **기술스택:** Spring Boot · JSP · WebSocket <br/> 
 > **역할:** 발표 / 길찾기 QR / 검색 및 정렬
  
 **BestMeat**는 사용자가 여러 정육점의 가격과 정보를 <br/>
