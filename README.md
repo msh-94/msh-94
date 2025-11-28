@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 
 </div>
 
@@ -25,7 +26,7 @@
 ## 💡 LC-Eye 프로젝트
 > **기간:** 2025.11.05 ~ 2025.11.27 <br/>
 > **기술스택:** Spring Boot · React · Flutter <br/>
-> **역할:** canva / 자동 매핑 시스템 / 투입물·산출물 파일 관리
+> **역할:** canva / 자동 매핑 시스템 / Flutter 총괄
 
 **LC-Eye**는 실무 LCI(Life Cycle Inventory) 계산과 표준 데이터 자동 매핑 기능을 제공하는 **경량형 LCI 시스템**입니다. <br />
 복잡한 LCI 계산 과정을 자동화하고 데이터 관리의 효율성을 높이는 것을 목표로 했습니다.
@@ -93,7 +94,7 @@
 </a>
 
 </div>
----
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
