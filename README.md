@@ -40,7 +40,7 @@
 > 🔗 [Notion 바로가기](https://www.notion.so/lceye/LC-Eye-2a2094d4983480369aa4fe1a6163688f?source=copy_link)  
 ---
 
-## IncheonPhoenix 프로젝트
+## :baseball: IncheonPhoenix 프로젝트
 > **기간:** 2025.09.26 ~ 2025.10.31 <br/>
 > **기술스택:** Spring Boot · React · Redis <br/>
 > **역할:** 조장 / 좌석교환 / 푸시알림
